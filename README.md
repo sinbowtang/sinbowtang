@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sinbowtang
-- 👀 I like watching the English Premier League
+- 👀 I like watching the Premierleague
 - 🌱 I’m currently learning some interesting project
 - 💞️ Manchester City
 - 📫 Mail:xbotang@163.com
