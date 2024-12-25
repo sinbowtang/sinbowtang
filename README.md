@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sinbowtang
-- 👀 I’m interested in automotive 
-- 🌱 I’m currently learning network communication
-- 💞️ I’m looking to collaborate on some interesting project
+- 👀 I like watching the English Premier League
+- 🌱 I’m currently learning some interesting project
+- 💞️ Manchester City
 - 📫 Mail:xbotang@163.com
-- 😄 Pronouns: null
-- ⚡ Fun fact: null
+- 😄 Pronouns: TODO
+- ⚡ Fun fact: TODO
 
 <!---
 sinbowtang/sinbowtang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
